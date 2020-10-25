@@ -29,6 +29,10 @@ public class AddressBookMain
 	{
 		return nameToContactMap;
 	}
+	public void addContactToList(Contact contact)
+	{
+		myContactArrayList.add(contact);
+	}
 	public void addNewContact()
 	{
 		String firstName="";

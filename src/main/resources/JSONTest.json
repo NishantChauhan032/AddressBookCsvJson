@@ -1,0 +1,32 @@
+[
+{
+"firstName": "nishant",
+"lastName": "Chauhan",
+"address": "Chainpur",
+"city": "Biharr",
+"state": "Bihar",
+"pin": 844118,
+"phoneNo": 9868585886,
+"emailId": "nishant@gmail.com"
+},
+{
+"firstName": "Anshu",
+"lastName": "Chauhan",
+"address": "Vaishali",
+"city": "jhr",
+"state": "jhr",
+"pin": 831014,
+"phoneNo": 8758759878,
+"emailId": "anshu@gmail.com"
+},
+{
+"firstName": "vishesh",
+"lastName": "chauhan",
+"address": "Delhi",
+"city": "Ncr",
+"state": "NewDelhi",
+"pin": 878657,
+"phoneNo": 9876543212,
+"emailId": "vishesh@gmail.com"
+}
+]
